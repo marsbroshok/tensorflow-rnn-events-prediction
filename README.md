@@ -5,8 +5,8 @@ This Google Datalab notebook shows how to create a simple RNN model to perform a
 
 # Installation
 To run this notebook, please follow these steps:
-* create Datalab project in Google Cloud Platform: https://cloud.google.com/datalab/docs/quickstart (do not worry about payment options, default quota is enought to run this demo notebook for free).
-* upload notebook [GDC Meetup Paris GDELT-skflow-RNN](https://github.com/marsbroshok/tensorflow-rnn-events-prediction/blob/master/GDC%20Meetup%20Paris%20GDELT-skflow-RNN.ipynb) to your Datalab envirement.
+* Create Datalab project in Google Cloud Platform: https://cloud.google.com/datalab/docs/quickstart (do not worry about payment options, default quota is enought to run this demo notebook for free).
+* Upload notebook [GDC Meetup Paris GDELT-skflow-RNN](https://github.com/marsbroshok/tensorflow-rnn-events-prediction/blob/master/GDC%20Meetup%20Paris%20GDELT-skflow-RNN.ipynb) to your Datalab envirement.
 * Enjoy!
 
 
