@@ -1,4 +1,6 @@
 # Tensorflow RNN to Events Prediction
+**[NOTE]**: *This notebook was made with [Tensorflow v.0.8.0](https://github.com/tensorflow/tensorflow/releases/tag/v0.8.0) and code is not compatible with the newest release of Tensorflow. For the moment I don't have time to upgrade the code so you can use notebook more as an illustration of GDELT dataset and time series analysis.*
+
 Tensorflow Recurrent Neural Network (RNN) model to analyse Time Series in GDELT News dataset to predict future events.
 
 This Google Datalab notebook shows how to create a simple RNN model to perform analysis of GDELT news events dataset.
